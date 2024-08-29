@@ -20,9 +20,9 @@ The database schema consists of the following tables:
  (dept_emp)
  (dept_manager)
 Each table is created with the appropriate columns, data types, and constraints (e.g., primary keys, foreign keys, NOT NULL constraints).
-## The SQL commands used to create these tables are provided in the table_schemas.sql file.
+** The SQL commands used to create these tables are provided in the table_schemas.sql file.
 
 
 # Data Analysis Queries
-## These queries are included in the queries.sql file.
+** These queries are included in the queries.sql file.
 
